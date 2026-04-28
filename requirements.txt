@@ -1,6 +1,8 @@
 streamlit
-ultralytics
-easyocr
-opencv-python-headless==4.8.1.78
-pillow
+ultralytics==8.3.145
+opencv-python-headless==4.9.0.80
+Pillow
 numpy
+torch==2.1.0
+torchvision==0.16.0
+easyocr
